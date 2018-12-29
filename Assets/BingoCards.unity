@@ -427,7 +427,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"I know what I''m worth"'
+  m_Text: '"Any ___ loving ladies in ___?"'
 --- !u!222 &117251253
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -857,7 +857,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"No single males, ladies welcome"'
+  m_Text: '"I''m in town for the weekend..."'
 --- !u!222 &184749344
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -931,7 +931,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Professional Porn Pics in Profile
+  m_Text: Kik
 --- !u!222 &218194567
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1091,7 +1091,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Complaints about flakes
+  m_Text: '"All Friend Requests Accepted"'
 --- !u!222 &289459679
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1301,7 +1301,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Screenshot of Fetlife DM in Pictures
+  m_Text: '"My ___ is now a fetish"'
 --- !u!222 &381715973
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1665,7 +1665,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"I''m in town for the weekend..."'
+  m_Text: '"This is a couples profile"'
 --- !u!222 &535827762
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1825,7 +1825,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: No Face Pic
+  m_Text: Screenshot of Fetlife DM in Pictures
 --- !u!222 &593761339
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2590,7 +2590,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"Warning: Any individual and/or..."'
+  m_Text: '"I love to make women squirt"'
 --- !u!222 &897363776
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2664,7 +2664,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"I love to make women squirt"'
+  m_Text: Premium Snapchat
 --- !u!222 &915566640
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2824,7 +2824,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"All Friend Requests Accepted"'
+  m_Text: No Face Pic
 --- !u!222 &995942156
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2898,7 +2898,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Profile with only 1 pic
+  m_Text: Deactivated Profile
 --- !u!222 &1143011141
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3108,7 +3108,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Premium Snapchat
+  m_Text: '"Looking for my paypig"'
 --- !u!222 &1246078537
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3182,7 +3182,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"Heyy"'
+  m_Text: Beach Pic
 --- !u!222 &1275473815
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3410,7 +3410,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Complaints about fakes
+  m_Text: Ab Pic in Bathroom Mirror
 --- !u!222 &1318248235
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3547,7 +3547,7 @@ MonoBehaviour:
     Type: 1
   - Text: 90% of Account Pictures are Memes
     Type: 1
-  - Text: KiK
+  - Text: Kik
     Type: 1
   - Text: '"I know what I''m worth"'
     Type: 1
@@ -3567,11 +3567,11 @@ MonoBehaviour:
     Type: 1
   - Text: Complaints about fakes
     Type: 1
-  - Text: Jerkoff video
+  - Text: Jerkoff Video
     Type: 1
   - Text: '"No single males, ladies welcome"'
     Type: 1
-  - Text: '"Heyy"'
+  - Text: Undeletable discussion threads
     Type: 1
   - Text: '"I''m in town for the weekend..."'
     Type: 1
@@ -3582,6 +3582,26 @@ MonoBehaviour:
   - Text: Profile with only 1 pic
     Type: 1
   - Text: '"Looking for my paypig"'
+    Type: 1
+  - Text: '"Any ___ loving ladies in ___?"'
+    Type: 1
+  - Text: '"My ___ is now a fetish"'
+    Type: 1
+  - Text: Online Dominant
+    Type: 1
+  - Text: All-male threads on female boards
+    Type: 1
+  - Text: '"New to the lifestyle"'
+    Type: 1
+  - Text: Results from bdsmtest
+    Type: 1
+  - Text: '"Just here to have fun"'
+    Type: 1
+  - Text: Kinkster from Antarctica
+    Type: 1
+  - Text: Alpha Males
+    Type: 1
+  - Text: Deactivated Profile
     Type: 1
   ScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
   CardBackgroundColor: {r: 0.29411763, g: 0.29411763, b: 0.29411763, a: 1}
@@ -3676,7 +3696,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Amazon Wishlist
+  m_Text: '"Message my daddy first"'
 --- !u!222 &1402959551
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3922,7 +3942,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Ab Pic in Bathroom Mirror
+  m_Text: Profile with only 1 pic
 --- !u!222 &1437441645
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4132,7 +4152,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Dick Profile Pic
+  m_Text: Online Dominant
 --- !u!222 &1508596101
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4292,7 +4312,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"Looking for my paypig"'
+  m_Text: Jerkoff Video
 --- !u!222 &1546719348
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4588,7 +4608,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 90% of Account Pictures are Memes
+  m_Text: '"I know what I''m worth"'
 --- !u!222 &1556507622
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4662,7 +4682,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: KiK
+  m_Text: Complaints about fakes
 --- !u!222 &1562924836
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4908,7 +4928,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"Message my daddy first"'
+  m_Text: '"Warning: Any individual and/or..."'
 --- !u!222 &1607162121
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4982,7 +5002,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jerkoff video
+  m_Text: Alpha Males
 --- !u!222 &1648748102
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5500,7 +5520,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Beach Pic
+  m_Text: 90% of Account Pictures are Memes
 --- !u!222 &1810778427
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5979,7 +5999,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"This is a couples profile"'
+  m_Text: '"No single males, ladies welcome"'
 --- !u!222 &1900397974
 CanvasRenderer:
   m_ObjectHideFlags: 0
